@@ -5,3 +5,6 @@ automaticamente con la repository online collegata?
 convenzione in GIT?
 
 3) Come descriveresti il workflow dei comandi di GIT?
+
+4) Qual è il comando da utilizzare per vedere l’elenco di tutte le commit del
+branch in cui ci si trova e i loro hashcode?
