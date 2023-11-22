@@ -19,3 +19,5 @@ branch in cui ci si trova e i loro hashcode?
 creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche
 di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
 visti in classe.
+
+9) Spiega di cosa si occupa l’ingegneria del software
