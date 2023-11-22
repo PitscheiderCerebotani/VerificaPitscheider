@@ -14,3 +14,8 @@ branch in cui ci si trova e i loro hashcode?
 6) Scrivi due motivazioni per giustificare l’utilizzo di GIT
 
 7) Spiega la differenza tra git clone e git pull.
+
+8) Descrivi cosa sono i rami di sviluppo in GIT (branches). Spiega inoltre come si
+creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche
+di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
+visti in classe.
