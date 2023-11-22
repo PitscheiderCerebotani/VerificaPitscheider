@@ -21,3 +21,5 @@ di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
 visti in classe.
 
 9) Spiega di cosa si occupa l’ingegneria del software
+
+10) Spiega cosa è il ciclo di vita del software e le fasi in cui si suddivide
