@@ -12,3 +12,5 @@ branch in cui ci si trova e i loro hashcode?
 5) Scrivi il comando per effettuare il rollback ad una commit precedente
 
 6) Scrivi due motivazioni per giustificare l’utilizzo di GIT
+
+7) Spiega la differenza tra git clone e git pull.
